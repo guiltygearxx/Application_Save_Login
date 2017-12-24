@@ -90,6 +90,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_alignParentStart="true"
                 android:layout_marginTop="10dp"
+                android:onClick="login"
                 android:text="Login" />
         </LinearLayout>
 
